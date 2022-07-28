@@ -32,4 +32,4 @@ git checkout -- {{file name}}			:	Undo uncommitted changes
 git checkout -f					:	Go back to previous commit
 git checkout -b {{branch name}}		:	Create new branch
 git push -u origin master			:	Push code to Github
-git checkout {{branch name}}  : Change branch in github
+git checkout {{branch name}}              : Change branch in github
