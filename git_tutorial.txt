@@ -5,10 +5,10 @@ git status						:	To check the status of git repository
 git init						:	Create git repository
 git add --a	or git add .			        :	Add all the files to the staging area
 git add {{"filename"}}				        :	Commit only single file
-Git commit -m {{"message"}}			      :	Create snapshot/commit
-git log						      :	Get the logs of commits
+Git commit -m {{"message"}}			        :	Create snapshot/commit
+git log						        :	Get the logs of commits
 git log -p						:	Show all the logs like rename, deleted, etc
-git log --stat					:	Gives short statistics of logs
+git log --stat				      	:	Gives short statistics of logs
 git log -3						:	Show latest 3 commits
 git log --pretty=oneline			:	Show all the logs in one line
 git log --pretty=short				: 	Show logs in short
