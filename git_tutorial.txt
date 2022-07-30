@@ -3,7 +3,7 @@ ls							:	List contents
 cd							:	Change directory
 git status						:	To check the status of git repository
 git init						:	Create git repository
-git add --a	or git add .			         :	Add all the files to the staging area
+git add --a	or git add .			        :	Add all the files to the staging area
 git add {{"filename"}}				        :	Commit only single file
 Git commit -m {{"message"}}			      :	Create snapshot/commit
 git log						      :	Get the logs of commits
